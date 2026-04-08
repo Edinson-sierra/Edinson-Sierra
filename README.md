@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, soy Edinson Sierra 👋</h1>
+<h1 align="center">Hola, soy Edinson Sierra 👋</h1>
 <p align="center">
  Analista y Desarrollador de Software en formación, Apasionado con lo que hago 😌👌.
 </p>
