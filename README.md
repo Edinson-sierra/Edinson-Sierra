@@ -10,7 +10,7 @@
 <!-- ===================== IMAGEN ===================== -->
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69d5d343cec4819193a4ac3079d01e18" alt="Innovación, tecnología y mundo" width="100%" style="border-radius:12px;"/>
+  <img src="Edinson Sierra frente al océano digital.png" alt="Innovación, tecnología y mundo" width="100%" style="border-radius:12px;"/>
 </p>
 
 ---
@@ -60,22 +60,14 @@
 🤝 Trabajo en equipo · 🔍 Capacidad de análisis · 🧩 Resolución de problemas
 ⚡ Aprendizaje rápido · 🔄 Adaptabilidad · 🧠 Pensamiento lógico
 
-<!-- ===================== STATS ===================== -->
-## 📊 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edinson-sierra&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edinson-sierra&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
 
 <!-- ===================== CONTACTO ===================== -->
 ## 📬 Contáctame
 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Edinsonsierra2006@gmail.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Edinsonsierra733@gmail.com)
+
 
 ---
 
