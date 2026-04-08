@@ -1,8 +1,7 @@
 
 <h1 align="center">Hey, soy Edinson Sierra 👋</h1>
 <p align="center">
-  Ingeniero apasionado por la tecnología, la innovación y el impacto positivo.<br>
-  Construyo soluciones que conectan el mundo digital con el mundo real.
+ Analista y Desarrollador de Software en formación, Apasionado con lo que hago 😌👌.
 </p>
 
 ---
